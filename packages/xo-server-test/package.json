@@ -32,7 +32,7 @@
     "app-conf": "^3.0.0",
     "golike-defer": "^0.5.1",
     "jest": "^29.0.3",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.23",
     "promise-toolbox": "^0.21.0",
     "xo-collection": "^0.5.0",
     "xo-common": "^0.8.0",
